@@ -1,0 +1,10 @@
+module.exports = {
+    authSecret: '123456000',
+    db: {
+        host: '127.0.0.1',
+        port: 5432,
+        database: 'knowledge',
+        user: 'postgres',
+        password: '123456'
+    }
+} 
